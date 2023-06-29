@@ -1,8 +1,8 @@
-### Hi, I'm akash 👋 👩🏾‍💻
+### Hi, I'm Suraj 👋 👩🏾‍💻
 
 
 
-## I am Pursuing C-DAC(DAC). I have done my engineering in civi from bapurao deshmukh college of engineering, i want to move my carrier in cloud and devops (Full Stack Developer ) field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology , linux ,Devops...
+## I am Pursuing C-DAC(DAC). I have done my engineering in Mechanical from Rajarambapu institute of technology,Islampur, i want to move my carrier in cloud and devops (Full Stack Developer ) field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology , linux ,Devops...
 ## !! Be Helpful, keep your feet on the ground and keep reaching for stars. !! ##
 
 - 🔭 I'm a CDAC certified guy

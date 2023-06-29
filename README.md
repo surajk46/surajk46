@@ -39,7 +39,7 @@
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" height="200" width="350">
  <h3> Find me around the web 🌎:</h3>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]() [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surajkushire/).
 
 </td>
   <tr>
